@@ -34,6 +34,20 @@ This repository contains lecture material of "*Python Classes in Kashmiri Langua
     - txt
     - json
     - sql
-15. [ ] Projects
+15. [ ] Searching Algorithms
+    - [x] Linear Search
+    - Binary Search
+16. [ ] Sorting Algorithms
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Heap Sort
+    - Counting Sort
+    - Radix Sort
+    - Bucket Sort
+17. [ ] Linked List
+18. [ ] Algorithms
+19. [ ] Projects
 
 
